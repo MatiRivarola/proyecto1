@@ -4,9 +4,10 @@ body
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     background-color: darkgray;
-<<<<<<< HEAD
+
     color: pink;
 }
-=======
+
+#container{
+    border: 0px;
 }
->>>>>>> master
