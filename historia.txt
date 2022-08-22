@@ -1,3 +1,9 @@
 Esto es una prueba para el curso de platzi 
 
 en la que veo el funcionamiento de git y git hub
+
+Mañana nos enfocaremos en su vida laboral
+
+Cambio para probar cosas
+Creamos una nueva rama jej
+
