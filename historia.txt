@@ -2,6 +2,6 @@ Esto es una prueba para el curso de platzi
 
 en la que veo el funcionamiento de git y git hub
 
-Esta es otra version de lo que hice
+Mañana nos enfocaremos en su vida laboral
 
-    Hoy hablaremos de su vida
+Cambio para probar cosas
