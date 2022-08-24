@@ -6,3 +6,5 @@ Mañana nos enfocaremos en su vida laboral
 
 Cambio para probar cosas para crear Nuevos contenidos
 Hice esta parte esto es una prueba para el curso de git
+Hice un pequeño cambio de cosas en el blog para saber si
+todo esta en orden
